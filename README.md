@@ -8,4 +8,4 @@ Zewnętrzne biblioteki do deserializacji są odpowiednie do zadanego problemu, n
 
 Zewnętrze pakiety to System.Text.Json i CSVHelper.
 
-![Image](https://postimg.cc/JDrkX7sy)
+[![Screenshot.png](https://i.postimg.cc/LXfBrnRV/Screenshot.png)](https://postimg.cc/JDrkX7sy)
